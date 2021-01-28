@@ -7,7 +7,9 @@ export default function App() {
     <View style={styles.container}>
       <Text>Abracradabra all i want is you</Text>
       <Text>Open up App.js to start working on your app!</Text>
+      <Text>Merge local</Text>
       <StatusBar style="auto" />
+
     </View>
   );
 }
